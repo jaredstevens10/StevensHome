@@ -1,0 +1,21 @@
+PODS:
+  - AZTabBar (1.0.9):
+    - EasyNotificationBadge
+  - EasyNotificationBadge (1.0.3)
+  - PopupDialog (0.5.3)
+  - SCLAlertView (0.7.0)
+
+DEPENDENCIES:
+  - AZTabBar
+  - PopupDialog (~> 0.5)
+  - SCLAlertView
+
+SPEC CHECKSUMS:
+  AZTabBar: d28b341030ca7301c59b65f8838823b29a270506
+  EasyNotificationBadge: 7da13ae3e2f139ee458461983d960a45f231f94c
+  PopupDialog: 533dd564f8781633375505b9fbd406f8f146ccc9
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+
+PODFILE CHECKSUM: 123676f230f1ac91e5ec403d087d968235713aeb
+
+COCOAPODS: 1.1.1
